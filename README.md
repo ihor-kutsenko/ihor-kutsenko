@@ -56,6 +56,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
  [![GitHub Streak](https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F)](https://git.io/streak-stats) 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+ </div>
  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihor-kutsenko&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

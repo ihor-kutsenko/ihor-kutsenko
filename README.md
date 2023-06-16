@@ -51,7 +51,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 ### :fire: My Stats :
 
 <div align="center"> 
- <img height="150em" src="https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F&mode=daily"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 

@@ -51,6 +51,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 ### :fire: My Stats :
 
 <div align="center"> 
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 
@@ -60,9 +61,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihor-kutsenko&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- ### Snake eating my contribution graph -->
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/ihor-kutsenko/ihor-kutsenko/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/ihor-kutsenko/ihor-kutsenko/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+
 
 <!--
 **ihor-kutsenko/ihor-kutsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -28,7 +28,6 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 - :open_book: I’m a student-switcher and interested in Programming.
 - :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript.
 - :open_book: Love studing and sharing knowledge.
-- :open_book: Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
 <!-- - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]() -->
 
 ---
@@ -53,7 +52,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 
 <div align="center"> 
  <img height="150em" src="https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
- [![GitHub Streak](https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F)](https://git.io/streak-stats) 
+ 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
  </div>

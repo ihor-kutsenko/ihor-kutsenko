@@ -6,7 +6,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="25"/>
+  <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
 </div>
 
 <!-- views counter -->
@@ -23,7 +23,7 @@
 ### About Me :
 
 I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25">
-<!--<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GUWHtmvHTd3GfBQcnV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ukraine-flag-defeat-is-not-an-option-GUWHtmvHTd3GfBQcnV">via GIPHY</a></p>.-->
+
 
 - :open_book: I’m a student-switcher and interested in Programming.
 - :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript.
@@ -53,10 +53,10 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 
 <div align="center"> 
  <img height="150em" src="https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F)](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F)](https://git.io/streak-stats) 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&layout=compact&langs_count=7&theme=transparent"/> -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&layout=compact&langs_count=7&theme=transparent"/> 
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihor-kutsenko&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

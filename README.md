@@ -1,5 +1,9 @@
-### Hi there 👋
-[![Rammbest profile views](https://u8views.com/api/v1/github/profiles/96702664/views/day-week-month-total-count.svg)](https://u8views.com/github/ihor-kutsenko)
+### <!-- greeting  -->
+<h1 align="center">
+  Hi, welcome to my GitHub!
+  
+</h1>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
@@ -10,11 +14,7 @@
 <a href="https://u8views.com/github/ihor-kutsenko"><img src="https://u8views.com/api/v1/github/profiles/96702664/views/day-week-month-total-count.svg"></a>
 </div>
 
-<!-- greeting  -->
-<h1 align="center">
-  Hi, welcome to my GitHub!
-  
-</h1>
+
 
 ---
 

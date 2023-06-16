@@ -22,7 +22,7 @@
 
 ### About Me :
 
-I am a Full Stack Developer from Ukraine<img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> .
+I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" > .
 
 - :open_book: I’m a student-switcher and interested in Programming.
 - :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript.

@@ -22,7 +22,7 @@
 
 ### About Me :
 
-I am a Full Stack Developer from Ukraine  <iframe src="https://giphy.com/embed/GUWHtmvHTd3GfBQcnV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ukraine-flag-defeat-is-not-an-option-GUWHtmvHTd3GfBQcnV">via GIPHY</a></p>.
+I am a Full Stack Developer from Ukraine  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GUWHtmvHTd3GfBQcnV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ukraine-flag-defeat-is-not-an-option-GUWHtmvHTd3GfBQcnV">via GIPHY</a></p>.
 
 - :open_book: I’m a student-switcher and interested in Programming.
 - :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript.

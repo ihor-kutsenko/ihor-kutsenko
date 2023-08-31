@@ -1,10 +1,4 @@
 ### <!-- greeting  -->
-<h1 align="center">
-  Hi, welcome to my GitHub!
-  
-</h1>
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
 </div>
@@ -12,9 +6,13 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Profile!" alt=" Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub!" alt=" Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
+
+
+
+
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center"> 
   <p><b>Profile Views</b></p>

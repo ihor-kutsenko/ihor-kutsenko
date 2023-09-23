@@ -36,7 +36,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 
 
 - :open_book: I’m a student-switcher and interested in Programming.
-- :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript, React, Redux.
+- :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript, React, Redux, NodeJS.
 - :open_book: Love studing and sharing knowledge.
 <!-- - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]() -->
 
@@ -57,6 +57,8 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="github" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;&nbsp;
     
 </div>
 

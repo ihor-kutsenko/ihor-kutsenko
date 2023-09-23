@@ -47,18 +47,22 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp; -->
    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="sass" width="30" height="30"/>&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="react" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="github" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="sass" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="react" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="github" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="npm" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;&nbsp;
+  
     
 </div>
 

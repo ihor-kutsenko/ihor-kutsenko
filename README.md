@@ -63,6 +63,8 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="npm" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://vitejs.dev/logo-with-shadow.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
+
   
     
 </div>

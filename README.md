@@ -58,6 +58,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="github" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;

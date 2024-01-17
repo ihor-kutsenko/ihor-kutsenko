@@ -1,4 +1,5 @@
 ### <!-- greeting  -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
 </div>
@@ -9,9 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub!" alt=" Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
-
-
-
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center"> 
@@ -24,8 +22,6 @@
 <a href="https://u8views.com/github/ihor-kutsenko"><img src="https://u8views.com/api/v1/github/profiles/96702664/views/day-week-month-total-count.svg"></a>
 </div>
 
-
-
 ---
 
 <!-- hero -->
@@ -33,7 +29,6 @@
 ### About Me :
 
 I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25">
-
 
 - :open_book: I’m a student-switcher and interested in Programming.
 - :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript, React, Redux, NodeJS, Vue.js.
@@ -65,9 +60,8 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="npm" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://vitejs.dev/logo-with-shadow.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
+<img src="/img/javascript.svg"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
 
-  
-    
 </div>
 
 ---
@@ -77,15 +71,14 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <div align="center"> 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
  </div>
- 
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihor-kutsenko&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <!--
 **ihor-kutsenko/ihor-kutsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

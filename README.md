@@ -42,25 +42,24 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp; -->
    
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="sass" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="react" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="github" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="npm" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://vitejs.dev/logo-with-shadow.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
-<img src="/img/javascript.svg"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/html5.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/css3.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/sass.svg"  title="Sass" alt="sass" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/javascript.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/react.svg"  title="React" alt="react" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/redux.svg"  title="Redux" alt="Redux" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/vuejs.svg" title="Vue" alt="Vue" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/nodejs.svg"  title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/mongodb.svg"  title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/vscode.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/git.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/postman.png" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/figma.svg"  title="Figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/github.svg"  title="Github" alt="github" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/trello.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/npm.svg"  title="NPM" alt="npm" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/materialui.svg"  title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/vite.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
 
 </div>
 
@@ -72,11 +71,9 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ihor-kutsenko&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-kutsenko&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihor-kutsenko&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

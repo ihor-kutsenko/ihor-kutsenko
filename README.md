@@ -33,7 +33,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 - :open_book: I’m a student-switcher and interested in Programming.
 - :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript, React, Redux, NodeJS, Vue.js.
 - :open_book: Love studing and sharing knowledge.
-<!-- - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]() -->
+- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kutsenko-ihor) 
 
 ---
 
@@ -41,7 +41,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp; -->
-   
+  
 <img src="./img/html5.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/css3.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/sass.svg"  title="Sass" alt="sass" width="30" height="30"/>&nbsp;&nbsp;
@@ -49,16 +49,20 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="./img/react.svg"  title="React" alt="react" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/redux.svg"  title="Redux" alt="Redux" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/vuejs.svg" title="Vue" alt="Vue" width="30" height="30"/>&nbsp;&nbsp;
+-
 <img src="./img/nodejs.svg"  title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/mongodb.svg"  title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;&nbsp;
+- 
 <img src="./img/vscode.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/git.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/postman.png" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/figma.svg"  title="Figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/postman.png" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/github.svg"  title="Github" alt="github" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/trello.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
+-
 <img src="./img/npm.svg"  title="NPM" alt="npm" width="30" height="30"/>&nbsp;&nbsp;
 <img src="./img/materialui.svg"  title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;&nbsp;
+- 
 <img src="./img/vite.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
 
 </div>

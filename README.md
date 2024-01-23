@@ -42,30 +42,30 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp; -->
   
-<img src="./img/html5.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/css3.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/sass.svg"  title="Sass" alt="sass" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/javascript.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/react.svg"  title="React" alt="react" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/redux.svg"  title="Redux" alt="Redux" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/vuejs.svg" title="Vue" alt="Vue" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/css3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/sass.svg"  title="Sass" alt="sass" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/react.svg"  title="React" alt="react" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/redux.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/vuejs.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;&nbsp;
 -
-<img src="./img/nodejs.svg"  title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/mongodb.svg"  title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/nodejs.svg"  title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/mongodb.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;
 - 
-<img src="./img/vscode.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/git.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/figma.svg"  title="Figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/postman.png" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/github.svg"  title="Github" alt="github" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/trello.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/vscode.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/figma.svg"  title="Figma" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/github.svg"  title="Github" alt="github" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/trello.svg"  title="Trello" alt="trello" width="40" height="40"/>&nbsp;&nbsp;
 -
-<img src="./img/npm.svg"  title="NPM" alt="npm" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/Formik2.png"  title="Formik" alt="Formik" width="60" height="30"/>&nbsp;&nbsp;
-<img src="./img/materialui.svg"  title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;&nbsp;
-<img src="./img/swiper-logo.svg"  title="Swiper" alt="Swiper" width="30" height="30"/>&nbsp;&nbsp;
-
-- <img src="./img/vite.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/npm.svg"  title="NPM" alt="npm" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/Formik2.png"  title="Formik" alt="Formik" width="80" height="40"/>&nbsp;&nbsp;
+<img src="./img/materialui.svg"  title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/swiper-logo.svg"  title="Swiper" alt="Swiper" width="40" height="40"/>&nbsp;&nbsp;
+- 
+<img src="./img/vite.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
 
 </div>
 

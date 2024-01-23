@@ -33,7 +33,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 - :open_book: I’m a student-switcher and interested in Programming.
 - :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript, React, Redux, NodeJS, Vue.js.
 - :open_book: Love studing and sharing knowledge.
-- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kutsenko-ihor) 
+- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kutsenko-ihor)
 
 ---
 
@@ -61,9 +61,11 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="./img/trello.svg"  title="Trello" alt="trello" width="30" height="30"/>&nbsp;&nbsp;
 -
 <img src="./img/npm.svg"  title="NPM" alt="npm" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/Formik.jpg"  title="Formik" alt="Formik" width="60" height="30"/>&nbsp;&nbsp;
 <img src="./img/materialui.svg"  title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;&nbsp;
-- 
-<img src="./img/vite.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
+<img src="./img/swiper-logo.svg"  title="Swiper" alt="Swiper" width="30" height="30"/>&nbsp;&nbsp;
+
+- <img src="./img/vite.png"  title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
 
 </div>
 
@@ -80,9 +82,3 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
  </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihor-kutsenko&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--
-**ihor-kutsenko/ihor-kutsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->

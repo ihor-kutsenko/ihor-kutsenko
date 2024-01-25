@@ -61,7 +61,9 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="./img/trello.svg"  title="Trello" alt="trello" width="50" height="50"/>&nbsp;&nbsp;
 -
 <img src="./img/npm.svg"  title="NPM" alt="npm" width="50" height="50"/>&nbsp;&nbsp;
+<img src="./img/Axios.png"  title="Axios" alt="Axios" width="100" height="50"/>&nbsp;&nbsp;
 <img src="./img/Formik2.png"  title="Formik" alt="Formik" width="100" height="50"/>&nbsp;&nbsp;
+<img src="./img\React-toastify.png"  title="React-toastify" alt="React-toastify" width="100" height="50"/>&nbsp;&nbsp;
 <img src="./img/materialui.svg"  title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/swiper-logo.svg"  title="Swiper" alt="Swiper" width="50" height="50"/>&nbsp;&nbsp;
 - 

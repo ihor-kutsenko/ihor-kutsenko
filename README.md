@@ -31,7 +31,7 @@
 I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25">
 
 - :open_book: I’m a student-switcher and interested in Programming.
-- :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript, React, Redux, NodeJS, Vue.js.
+- :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript, React, Redux, NodeJS, Vue.js, TypeScript.
 - :open_book: Love studing and sharing knowledge.
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kutsenko-ihor)
 
@@ -63,7 +63,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="./img/npm.svg"  title="NPM" alt="npm" width="50" height="40"/>&nbsp;&nbsp;
 <img src="./img/Axios.png"  title="Axios" alt="Axios" width="170" height="40"/>&nbsp;&nbsp;
 <img src="./img/React-toastify.png"  title="React-toastify" alt="React-toastify" width="150" height="40"/>&nbsp;&nbsp;
-<img src="./img/React-Router2.png"  title="React-Router" alt="React-Router" width="70" height="50"/>&nbsp;&nbsp;
+<img src="./img/React-Router2.png"  title="React-Router" alt="React-Router" width="80" height="50"/>&nbsp;&nbsp;
 <img src="./img/Formik2.png"  title="Formik" alt="Formik" width="100" height="50"/>&nbsp;&nbsp;
 <img src="./img/styled-components.jpg"  title="Styled-components" alt="Styled-components" width="70" height="50"/>&nbsp;&nbsp;
 <img src="./img/materialui.svg"  title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;&nbsp;

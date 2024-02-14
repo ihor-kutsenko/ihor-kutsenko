@@ -46,6 +46,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="./img/css3.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/sass.svg"  title="Sass" alt="sass" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/javascript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
+<img src="./img/Typescript.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/react.svg"  title="React" alt="react" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/redux.svg"  title="Redux" alt="Redux" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/vuejs.svg" title="Vue" alt="Vue" width="50" height="50"/>&nbsp;&nbsp;

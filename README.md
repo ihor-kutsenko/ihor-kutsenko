@@ -56,6 +56,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="./img/Mongoose.png"  title="Mongoose" alt="Mongoose" width="100" height="50"/>&nbsp;&nbsp;
 <img src="./img/joi.png"  title="Joi" alt="Joi" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/json-web-tokens.png"  title="Json-Web-Token" alt="Json-Web-Token" width="50" height="50"/>&nbsp;&nbsp;
+<img src="./img/gravatar.jpg"  title="Gravatar" alt="Gravatar" width="50" height="50"/>&nbsp;&nbsp;
 - 
 <img src="./img/vscode.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/git.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;

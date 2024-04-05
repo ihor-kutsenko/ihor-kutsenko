@@ -66,6 +66,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="./img/postman.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/github.svg"  title="Github" alt="github" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/trello.svg"  title="Trello" alt="trello" width="50" height="50"/>&nbsp;&nbsp;
+<img src="./img/slack.png"  title="Slack" alt="Slack" width="50" height="50"/>&nbsp;&nbsp;
 -
 <img src="./img/npm.svg"  title="NPM" alt="npm" width="50" height="40"/>&nbsp;&nbsp;
 <img src="./img/Axios.png"  title="Axios" alt="Axios" width="170" height="40"/>&nbsp;&nbsp;

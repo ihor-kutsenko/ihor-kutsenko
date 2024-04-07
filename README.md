@@ -83,6 +83,7 @@ I am a Full Stack Developer from Ukraine <img src="https://media.giphy.com/media
 <img src="./img/Datepicker.png"  title="Datepicker" alt="Datepicker" width="50" height="50"/>&nbsp;&nbsp;
 - 
 <img src="./img/vite.png"  title="Vite" alt="Vite" width="50" height="50"/>&nbsp;&nbsp;
+<img src="./img/bash.png"  title="Bash" alt="Bash" width="100" height="50"/>&nbsp;&nbsp;
 
 </div>
 
